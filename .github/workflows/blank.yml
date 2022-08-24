@@ -25,4 +25,4 @@ jobs:
           pip3 install -r requirements.txt
       - name: GGBOY
         run: |
-          python3 main.py
+          python3 main.exe
